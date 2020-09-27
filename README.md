@@ -16,4 +16,4 @@ Gits about me
 ###
 
 Thank you for visiting my page 😁
-### Happy Coding! 01100010 01111001 01100101 00001010###
+### Happy Coding! 01100010 01111001 01100101 00001010 ###
