@@ -6,7 +6,7 @@ Gits about me
 
 - 🔭 I’m currently working on developing an android application
 - 🌱 I’m currently learning Kotlin and Material Design
-- 📫 How to reach me: <a href="gmailto:hazqier205@gmail.com">Let's get in touch!</a>
+- 📫 How to reach me: <a href="mailto:hazqier205@gmail.com?subject=I want to get in touch!&">Lets get in touch!</a>
 - ⚡ I'm working hard practacing for my competitive programming passion
 
 ### Other places you can find me
