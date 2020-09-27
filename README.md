@@ -1,4 +1,4 @@
-### Hi there, Zeem here 👋
+### Hey there, Zeem here 👋
 
 [![HitCount](http://hits.dwyl.com/Hazqier/Hazqier.svg)](http://hits.dwyl.com/Hazqier/Hazqier)
 
