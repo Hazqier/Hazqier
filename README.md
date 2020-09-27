@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there, Zeem here 👋
 
-<!--
-**Hazqier/Hazqier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![HitCount](http://hits.dwyl.com/Hazqier/Hazqier.svg)](http://hits.dwyl.com/Hazqier/Hazqier)
 
-Here are some ideas to get you started:
+Gits about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on developing an android application
+- 🌱 I’m currently learning Kotlin and Material Design
+- 📫 How to reach me: <a href="mailto:hazqier205@gmail.com">Let's get in touch!</a>
+- ⚡ I'm working hard at problem solving for my competitive programming passion
+
+### Other places you can find me
+
+🐤 [see my tweet](https://twitter.com/Hazqier)
+
+###
+
+Thank you for visiting my page 😁
+### Happy Coding! 01100010 01111001 01100101 00001010###
