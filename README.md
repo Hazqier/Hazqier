@@ -11,7 +11,8 @@ Gits about me
 
 ### Other places you can find me
 
-🐤 [see my tweet](https://twitter.com/Hazqier)
+🐤 [See my rants and tweets!](https://twitter.com/Hazqier)
+📷 [See my photography skills!](https://www.instagram.com/hazqier/)
 
 ###
 
